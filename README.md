@@ -35,7 +35,7 @@ Full documentation is available on [GitBook](https://ahmed-kamal.gitbook.io/bioi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mmedoo/manim
+   git clone https://github.com/Ahmedkamal7071/manim 
    cd manim
    ```
 
